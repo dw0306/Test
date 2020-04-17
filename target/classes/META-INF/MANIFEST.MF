@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sample-spring-boot-web-mongo5
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: lee
+Implementation-Vendor-Id: pl.piomin.services
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/sample-sprin
+ g-boot-web-mongo5/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
